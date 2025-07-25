@@ -1,0 +1,12 @@
+{
+  "intro": "Hi, I am Soni Kumari, a passionate Computer Science student specializing in AI and web development.",
+  "education": "Currently pursuing B.Tech in Computer Science with specialization in Artificial Intelligence at IGDTUW.",
+  "skills": "My technical skills include HTML, CSS, JavaScript, React, Node.js, MongoDB, Python, Machine Learning, and responsive web design.",
+  "projects": {
+    "hospital-management": "A comprehensive full-stack hospital management system for managing patients, appointments, and billing with secure authentication.",
+    "tourism-site": "A responsive tourism website built with HTML, CSS, and Bootstrap featuring beautiful galleries and booking functionality.",
+    "drawing-app": "An interactive web-based drawing application with multiple tools, color palettes, and save functionality."
+  },
+  "certifications": "I have completed certifications in NPTEL Soft Skills & Personality Development, Google Analytics, and various web development courses.",
+  "contact": "You can reach me through the contact form on this page, or connect with me on LinkedIn and GitHub for collaboration opportunities."
+}
